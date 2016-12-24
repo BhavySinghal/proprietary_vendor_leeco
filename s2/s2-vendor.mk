@@ -199,7 +199,7 @@ PRODUCT_COPY_FILES += \
     vendor/leeco/s2/proprietary/framework/qcom.fmradio.jar:system/framework/qcom.fmradio.jar \
     vendor/leeco/s2/proprietary/framework/qcrilhook.jar:system/framework/qcrilhook.jar \
     vendor/leeco/s2/proprietary/framework/qti-telephony-common.jar:system/framework/qti-telephony-common.jar \   
-    vendor/leeco/s2/proprietary/framework/tcmclient.jar:system/framework/tcmclient.jar \
+
     vendor/leeco/s2/proprietary/lib64/hw/fingerprint.default.so:system/lib64/hw/fingerprint.default.so \
     vendor/leeco/s2/proprietary/lib64/hw/gxfingerprint.default.so:system/lib64/hw/gxfingerprint.default.so \
     vendor/leeco/s2/proprietary/lib64/hw/lights.msm8952.so:system/lib64/hw/lights.msm8952.so \
